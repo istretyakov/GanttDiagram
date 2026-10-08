@@ -1,0 +1,22 @@
+﻿@startgantt
+title Релиз 3.2
+Project starts 2026-10-01
+saturday are closed
+sunday are closed
+today is 2026-10-08 and is colored in #FFE0E0
+
+-- Иванов --
+[PRJ-12 · Авторизация] as [T1] starts 2026-10-05 and ends 2026-10-09
+[T1] is colored in #A3CFBB
+[PRJ-15 · Логи] as [T2] starts 2026-10-12 and ends 2026-10-14
+[T2] is colored in #C5B3E6
+
+-- Петров --
+[PRJ-20 · Отчёты] as [T3] starts 2026-10-07 and ends 2026-10-16
+[T3] is colored in #A3CFBB
+[T3] is 100% completed
+[PRJ-21 · Просроченная задача] as [T4] starts 2026-10-01 and ends 2026-10-06
+[T4] is colored in #A3CFBB
+
+' Не запланировано: PRJ-31, PRJ-33
+@endgantt

@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+backend/**/keys/
+*.received.*
+
+# Node
+node_modules/
+dist/
+test-results/
+playwright-report/
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json

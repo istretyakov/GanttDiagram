@@ -1,0 +1,9 @@
+﻿@startgantt
+title Пустой проект
+Project starts 2026-10-08
+saturday are closed
+sunday are closed
+today is 2026-10-08 and is colored in #FFE0E0
+
+' Нет задач с датами за выбранный период
+@endgantt
